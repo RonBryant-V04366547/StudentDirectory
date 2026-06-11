@@ -28,3 +28,13 @@ then by entering the following bash/shell commands:
 `javac edu/fscj/cop3330c/Student.java edu/fscj/cop3330c/StudentDirectory.java` to compile
 then
 `java edu.fscj.cop3330c.StudentDirectory` to run the Student Directory application.
+
+## Expected Output
+```
+Student List:
+Student{name='Alice', age=20}
+Student{name='Bob', age=22}
+Student{name='Charlie', age=19}
+Found student: Student{name='Bob', age=22}
+Student with name David not found.
+```
