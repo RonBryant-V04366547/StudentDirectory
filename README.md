@@ -1,2 +1,2 @@
 # StudentDirectory
-Class/Application which represents a student directory
+Prior course class/application which represents a student directory
