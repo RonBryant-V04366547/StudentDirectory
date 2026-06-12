@@ -6,7 +6,9 @@ target/
 
 ### IntelliJ IDEA ###
 .idea/
+**/.idea/
 target/
+**/target/
 *.iws
 *.iml
 *.ipr
